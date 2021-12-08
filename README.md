@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Naz 👋
 ![girl-hacker](https://user-images.githubusercontent.com/56969923/145229131-82ff64c1-637a-4063-be6f-2ca1f3820537.gif)
 
 

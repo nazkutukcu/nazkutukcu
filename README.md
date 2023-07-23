@@ -1,6 +1,6 @@
 ### Hi there, I'm Naz 👋
 
-In my projects i always wanted to improve myself as learning new concepts and also i tried to apply what i’ve learned from my education. With my internships’ experience, i found chance to implement my school knowledge to real life. I learned how to become a part of big Project and also part of a team. My biggest goal is to bring a new perspective to my job by discovering new technologies and concepts.
+
 
 <!--
 **nazkutukcu/nazkutukcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

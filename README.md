@@ -1,4 +1,4 @@
-### Hi there, I'm Naz 👋
+### Hi, I'm Naz 👋
 🌱 I’m currently learning JavaScript and React.
 
 

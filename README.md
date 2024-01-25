@@ -1,5 +1,5 @@
 ### Hi, I'm Naz 👋
-🌱 I’m currently learning JavaScript and React.
+🌱 I’m currently learning .NET.
 
 
 
